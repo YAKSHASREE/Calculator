@@ -1,1 +1,3 @@
-# Calculator
+# CALCULATOR
+
+This is a rather simple calculator implemented using Java Swing with a simple GUI consisting of a text field for display and a 4x4 grid of buttons for digits, arithmetic operations, and control functions. It lays out the buttons in position using `GridLayout` and obtains user input through an `ActionListener` to update the display and eventually do calculations. The stacks are at the core of its logic and guarantee the handling of arithmetic expressions by priority of operators. It provides buttons that users can use to input numbers and operators, to evaluate an expression, and to clear the input. The program is a simple illustration of interactive GUI programming in Java.
